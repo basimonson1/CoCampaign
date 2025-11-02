@@ -6,6 +6,4 @@
 - [[Quests]]
 - [[Campaign Arcs]]
 - [[Adventure Guild Summary]]
-- Tee hee
-- 
 
