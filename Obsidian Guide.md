@@ -2,6 +2,11 @@
 aliases:
   - Obsidian Tips and Tricks
 ---
+#### Saving Changes
+- Ctrl + P to open commands
+- Search for `Git: Commit-and-sync`
+- This will save your changes that you've made. When anyone else opens Obsidian, it will automatically update their notes with the ones you've saved.
+
 #### Linking
 
 Add a link by wrapping text in double brackets. 
