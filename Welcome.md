@@ -1,4 +1,4 @@
-![[map-for-a-world-im-making-as-a-gm-for-a-new-dnd-campaign-v0-vub5ibzy31sa1.jpg]]
+![[tutorial_map.jpg.jpg]]
 
 ## Quick Links
 
